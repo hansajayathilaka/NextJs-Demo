@@ -1,11 +1,11 @@
 # Demo for Next Js and React Js
 
-##Install Dependencies
+## Install Dependencies
 ```
 yarn add next react react-dom
 ```
 
-##Add fallowing scripts to package.json
+## Add fallowing scripts to package.json
 ```
     "scripts": {
     "dev": "next",
@@ -14,11 +14,11 @@ yarn add next react react-dom
     },
 ```
 
-##After that
+## After that
 - Create a folder as pages
 - Create your jsx file in the pages folder.
 
-##For installation
+## For installation
 - Clone the project
 - Goto project directory
 - Run project for development `yarn run dev`
