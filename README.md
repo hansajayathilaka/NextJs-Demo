@@ -21,6 +21,7 @@ yarn add next react react-dom
 ## For installation
 - Clone the project
 - Goto project directory
+- Install dependencies `yarn install`
 - Run project for development `yarn run dev`
 - For production build `yarn run build`
 - To run production build 'yarn start'
