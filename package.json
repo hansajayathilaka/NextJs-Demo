@@ -1,0 +1,21 @@
+{
+  "name": "NextJs-Demo",
+  "version": "1.0.0",
+  "description": "Demo For Next Js and React Js",
+  "main": "index.js",
+  "repository": "https://github.com/hansajayathilaka/NextJs-Demo.git",
+  "author": "Hansa Jayathilaka",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
